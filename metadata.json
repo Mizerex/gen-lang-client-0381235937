@@ -1,0 +1,5 @@
+{
+  "name": "Criador de Postagens  Virais para as Redes",
+  "description": "Transforma roteiros em posts prontos com título, hashtags e voz narrada para redes sociais, usando a API Gemini.",
+  "requestFramePermissions": []
+}
